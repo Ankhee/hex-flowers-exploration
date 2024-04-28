@@ -1,0 +1,4562 @@
+[
+  {
+    "collections": {
+      "belt": {
+        "mean": "1.36",
+        "median": "2",
+        "non_zero": "81.8%",
+        "p_of_all_visits": "45.2%",
+        "std": "0.77"
+      },
+      "bottom": {
+        "mean": "0.09",
+        "median": "0",
+        "non_zero": "9.3%",
+        "p_of_all_visits": "3.1%",
+        "std": "0.29"
+      },
+      "center": {
+        "mean": "1.11",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "37.1%",
+        "std": "0.32"
+      },
+      "collar": {
+        "mean": "0.06",
+        "median": "0",
+        "non_zero": "5.7%",
+        "p_of_all_visits": "2.1%",
+        "std": "0.27"
+      },
+      "left_lobe": {
+        "mean": "0.24",
+        "median": "0",
+        "non_zero": "18.8%",
+        "p_of_all_visits": "8.1%",
+        "std": "0.54"
+      },
+      "right_lobe": {
+        "mean": "0.13",
+        "median": "0",
+        "non_zero": "11.0%",
+        "p_of_all_visits": "4.5%",
+        "std": "0.40"
+      },
+      "top": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.1%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.03"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.02",
+        "median": "0",
+        "non_zero": "1.9%",
+        "p_of_all_visits": "0.6%",
+        "std": "0.14"
+      },
+      "(0, 1)": {
+        "mean": "0.07",
+        "median": "0",
+        "non_zero": "7.0%",
+        "p_of_all_visits": "2.3%",
+        "std": "0.25"
+      },
+      "(0, 2)": {
+        "mean": "0.06",
+        "median": "0",
+        "non_zero": "6.2%",
+        "p_of_all_visits": "2.1%",
+        "std": "0.24"
+      },
+      "(1, 0)": {
+        "mean": "0.01",
+        "median": "0",
+        "non_zero": "0.8%",
+        "p_of_all_visits": "0.3%",
+        "std": "0.09"
+      },
+      "(1, 1)": {
+        "mean": "0.15",
+        "median": "0",
+        "non_zero": "15.3%",
+        "p_of_all_visits": "5.1%",
+        "std": "0.36"
+      },
+      "(1, 2)": {
+        "mean": "0.33",
+        "median": "0",
+        "non_zero": "33.5%",
+        "p_of_all_visits": "11.2%",
+        "std": "0.47"
+      },
+      "(1, 3)": {
+        "mean": "0.15",
+        "median": "0",
+        "non_zero": "15.3%",
+        "p_of_all_visits": "5.1%",
+        "std": "0.36"
+      },
+      "(2, 0)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.1%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.03"
+      },
+      "(2, 1)": {
+        "mean": "0.05",
+        "median": "0",
+        "non_zero": "5.1%",
+        "p_of_all_visits": "1.7%",
+        "std": "0.22"
+      },
+      "(2, 2)": {
+        "mean": "1.11",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "37.1%",
+        "std": "0.32"
+      },
+      "(2, 3)": {
+        "mean": "0.40",
+        "median": "0",
+        "non_zero": "40.2%",
+        "p_of_all_visits": "13.4%",
+        "std": "0.49"
+      },
+      "(2, 4)": {
+        "mean": "0.09",
+        "median": "0",
+        "non_zero": "9.3%",
+        "p_of_all_visits": "3.1%",
+        "std": "0.29"
+      },
+      "(3, 0)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.5%",
+        "p_of_all_visits": "0.2%",
+        "std": "0.07"
+      },
+      "(3, 1)": {
+        "mean": "0.09",
+        "median": "0",
+        "non_zero": "9.4%",
+        "p_of_all_visits": "3.1%",
+        "std": "0.29"
+      },
+      "(3, 2)": {
+        "mean": "0.25",
+        "median": "0",
+        "non_zero": "24.6%",
+        "p_of_all_visits": "8.2%",
+        "std": "0.43"
+      },
+      "(3, 3)": {
+        "mean": "0.12",
+        "median": "0",
+        "non_zero": "11.9%",
+        "p_of_all_visits": "4.0%",
+        "std": "0.32"
+      },
+      "(4, 0)": {
+        "mean": "0.01",
+        "median": "0",
+        "non_zero": "0.7%",
+        "p_of_all_visits": "0.2%",
+        "std": "0.08"
+      },
+      "(4, 1)": {
+        "mean": "0.03",
+        "median": "0",
+        "non_zero": "3.2%",
+        "p_of_all_visits": "1.1%",
+        "std": "0.18"
+      },
+      "(4, 2)": {
+        "mean": "0.04",
+        "median": "0",
+        "non_zero": "3.8%",
+        "p_of_all_visits": "1.3%",
+        "std": "0.19"
+      }
+    },
+    "n_iter": 3,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "2.28",
+        "median": "2",
+        "non_zero": "92.9%",
+        "p_of_all_visits": "45.6%",
+        "std": "1.02"
+      },
+      "bottom": {
+        "mean": "0.34",
+        "median": "0",
+        "non_zero": "26.1%",
+        "p_of_all_visits": "6.9%",
+        "std": "0.64"
+      },
+      "center": {
+        "mean": "1.17",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "23.5%",
+        "std": "0.41"
+      },
+      "collar": {
+        "mean": "0.31",
+        "median": "0",
+        "non_zero": "26.4%",
+        "p_of_all_visits": "6.3%",
+        "std": "0.57"
+      },
+      "left_lobe": {
+        "mean": "0.49",
+        "median": "0",
+        "non_zero": "33.8%",
+        "p_of_all_visits": "9.8%",
+        "std": "0.79"
+      },
+      "right_lobe": {
+        "mean": "0.37",
+        "median": "0",
+        "non_zero": "28.0%",
+        "p_of_all_visits": "7.3%",
+        "std": "0.66"
+      },
+      "top": {
+        "mean": "0.04",
+        "median": "0",
+        "non_zero": "3.6%",
+        "p_of_all_visits": "0.8%",
+        "std": "0.20"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.10",
+        "median": "0",
+        "non_zero": "9.6%",
+        "p_of_all_visits": "2.0%",
+        "std": "0.30"
+      },
+      "(0, 1)": {
+        "mean": "0.17",
+        "median": "0",
+        "non_zero": "15.8%",
+        "p_of_all_visits": "3.3%",
+        "std": "0.39"
+      },
+      "(0, 2)": {
+        "mean": "0.18",
+        "median": "0",
+        "non_zero": "17.1%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.39"
+      },
+      "(1, 0)": {
+        "mean": "0.11",
+        "median": "0",
+        "non_zero": "11.3%",
+        "p_of_all_visits": "2.3%",
+        "std": "0.32"
+      },
+      "(1, 1)": {
+        "mean": "0.22",
+        "median": "0",
+        "non_zero": "20.3%",
+        "p_of_all_visits": "4.5%",
+        "std": "0.47"
+      },
+      "(1, 2)": {
+        "mean": "0.45",
+        "median": "0",
+        "non_zero": "40.7%",
+        "p_of_all_visits": "9.0%",
+        "std": "0.58"
+      },
+      "(1, 3)": {
+        "mean": "0.37",
+        "median": "0",
+        "non_zero": "34.3%",
+        "p_of_all_visits": "7.4%",
+        "std": "0.53"
+      },
+      "(2, 0)": {
+        "mean": "0.04",
+        "median": "0",
+        "non_zero": "3.6%",
+        "p_of_all_visits": "0.8%",
+        "std": "0.20"
+      },
+      "(2, 1)": {
+        "mean": "0.10",
+        "median": "0",
+        "non_zero": "8.8%",
+        "p_of_all_visits": "1.9%",
+        "std": "0.31"
+      },
+      "(2, 2)": {
+        "mean": "1.17",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "23.5%",
+        "std": "0.41"
+      },
+      "(2, 3)": {
+        "mean": "0.56",
+        "median": "0",
+        "non_zero": "49.6%",
+        "p_of_all_visits": "11.1%",
+        "std": "0.60"
+      },
+      "(2, 4)": {
+        "mean": "0.34",
+        "median": "0",
+        "non_zero": "26.1%",
+        "p_of_all_visits": "6.9%",
+        "std": "0.64"
+      },
+      "(3, 0)": {
+        "mean": "0.10",
+        "median": "0",
+        "non_zero": "10.4%",
+        "p_of_all_visits": "2.1%",
+        "std": "0.31"
+      },
+      "(3, 1)": {
+        "mean": "0.15",
+        "median": "0",
+        "non_zero": "14.1%",
+        "p_of_all_visits": "3.1%",
+        "std": "0.40"
+      },
+      "(3, 2)": {
+        "mean": "0.34",
+        "median": "0",
+        "non_zero": "30.2%",
+        "p_of_all_visits": "6.7%",
+        "std": "0.54"
+      },
+      "(3, 3)": {
+        "mean": "0.28",
+        "median": "0",
+        "non_zero": "26.5%",
+        "p_of_all_visits": "5.7%",
+        "std": "0.49"
+      },
+      "(4, 0)": {
+        "mean": "0.08",
+        "median": "0",
+        "non_zero": "7.7%",
+        "p_of_all_visits": "1.5%",
+        "std": "0.27"
+      },
+      "(4, 1)": {
+        "mean": "0.13",
+        "median": "0",
+        "non_zero": "13.0%",
+        "p_of_all_visits": "2.7%",
+        "std": "0.35"
+      },
+      "(4, 2)": {
+        "mean": "0.11",
+        "median": "0",
+        "non_zero": "10.4%",
+        "p_of_all_visits": "2.1%",
+        "std": "0.32"
+      }
+    },
+    "n_iter": 5,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "4.19",
+        "median": "4",
+        "non_zero": "98.6%",
+        "p_of_all_visits": "41.9%",
+        "std": "1.59"
+      },
+      "bottom": {
+        "mean": "0.80",
+        "median": "0",
+        "non_zero": "44.3%",
+        "p_of_all_visits": "8.0%",
+        "std": "1.15"
+      },
+      "center": {
+        "mean": "1.40",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.0%",
+        "std": "0.61"
+      },
+      "collar": {
+        "mean": "1.10",
+        "median": "1",
+        "non_zero": "65.0%",
+        "p_of_all_visits": "11.0%",
+        "std": "1.07"
+      },
+      "left_lobe": {
+        "mean": "1.20",
+        "median": "1",
+        "non_zero": "61.8%",
+        "p_of_all_visits": "12.0%",
+        "std": "1.28"
+      },
+      "right_lobe": {
+        "mean": "1.06",
+        "median": "1",
+        "non_zero": "58.8%",
+        "p_of_all_visits": "10.6%",
+        "std": "1.17"
+      },
+      "top": {
+        "mean": "0.24",
+        "median": "0",
+        "non_zero": "17.9%",
+        "p_of_all_visits": "2.4%",
+        "std": "0.60"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.31",
+        "median": "0",
+        "non_zero": "27.3%",
+        "p_of_all_visits": "3.1%",
+        "std": "0.55"
+      },
+      "(0, 1)": {
+        "mean": "0.42",
+        "median": "0",
+        "non_zero": "35.2%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.63"
+      },
+      "(0, 2)": {
+        "mean": "0.40",
+        "median": "0",
+        "non_zero": "33.8%",
+        "p_of_all_visits": "4.0%",
+        "std": "0.60"
+      },
+      "(1, 0)": {
+        "mean": "0.41",
+        "median": "0",
+        "non_zero": "34.9%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.60"
+      },
+      "(1, 1)": {
+        "mean": "0.46",
+        "median": "0",
+        "non_zero": "37.6%",
+        "p_of_all_visits": "4.6%",
+        "std": "0.67"
+      },
+      "(1, 2)": {
+        "mean": "0.69",
+        "median": "1",
+        "non_zero": "53.5%",
+        "p_of_all_visits": "6.9%",
+        "std": "0.75"
+      },
+      "(1, 3)": {
+        "mean": "0.78",
+        "median": "1",
+        "non_zero": "58.0%",
+        "p_of_all_visits": "7.8%",
+        "std": "0.79"
+      },
+      "(2, 0)": {
+        "mean": "0.24",
+        "median": "0",
+        "non_zero": "17.9%",
+        "p_of_all_visits": "2.4%",
+        "std": "0.60"
+      },
+      "(2, 1)": {
+        "mean": "0.33",
+        "median": "0",
+        "non_zero": "28.3%",
+        "p_of_all_visits": "3.3%",
+        "std": "0.56"
+      },
+      "(2, 2)": {
+        "mean": "1.40",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.0%",
+        "std": "0.61"
+      },
+      "(2, 3)": {
+        "mean": "0.82",
+        "median": "1",
+        "non_zero": "62.0%",
+        "p_of_all_visits": "8.2%",
+        "std": "0.78"
+      },
+      "(2, 4)": {
+        "mean": "0.80",
+        "median": "0",
+        "non_zero": "44.3%",
+        "p_of_all_visits": "8.0%",
+        "std": "1.15"
+      },
+      "(3, 0)": {
+        "mean": "0.37",
+        "median": "0",
+        "non_zero": "32.0%",
+        "p_of_all_visits": "3.7%",
+        "std": "0.58"
+      },
+      "(3, 1)": {
+        "mean": "0.38",
+        "median": "0",
+        "non_zero": "32.1%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.61"
+      },
+      "(3, 2)": {
+        "mean": "0.57",
+        "median": "0",
+        "non_zero": "44.8%",
+        "p_of_all_visits": "5.7%",
+        "std": "0.72"
+      },
+      "(3, 3)": {
+        "mean": "0.63",
+        "median": "0",
+        "non_zero": "48.6%",
+        "p_of_all_visits": "6.3%",
+        "std": "0.75"
+      },
+      "(4, 0)": {
+        "mean": "0.27",
+        "median": "0",
+        "non_zero": "23.8%",
+        "p_of_all_visits": "2.7%",
+        "std": "0.51"
+      },
+      "(4, 1)": {
+        "mean": "0.41",
+        "median": "0",
+        "non_zero": "34.7%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.61"
+      },
+      "(4, 2)": {
+        "mean": "0.30",
+        "median": "0",
+        "non_zero": "26.2%",
+        "p_of_all_visits": "3.0%",
+        "std": "0.54"
+      }
+    },
+    "n_iter": 10,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "6.10",
+        "median": "6",
+        "non_zero": "99.7%",
+        "p_of_all_visits": "40.7%",
+        "std": "2.02"
+      },
+      "bottom": {
+        "mean": "1.22",
+        "median": "1",
+        "non_zero": "57.6%",
+        "p_of_all_visits": "8.1%",
+        "std": "1.46"
+      },
+      "center": {
+        "mean": "1.64",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "11.0%",
+        "std": "0.76"
+      },
+      "collar": {
+        "mean": "1.89",
+        "median": "2",
+        "non_zero": "83.5%",
+        "p_of_all_visits": "12.6%",
+        "std": "1.39"
+      },
+      "left_lobe": {
+        "mean": "1.93",
+        "median": "2",
+        "non_zero": "78.0%",
+        "p_of_all_visits": "12.9%",
+        "std": "1.63"
+      },
+      "right_lobe": {
+        "mean": "1.76",
+        "median": "1",
+        "non_zero": "76.3%",
+        "p_of_all_visits": "11.7%",
+        "std": "1.53"
+      },
+      "top": {
+        "mean": "0.46",
+        "median": "0",
+        "non_zero": "30.0%",
+        "p_of_all_visits": "3.0%",
+        "std": "0.83"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.53",
+        "median": "0",
+        "non_zero": "41.3%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.72"
+      },
+      "(0, 1)": {
+        "mean": "0.68",
+        "median": "1",
+        "non_zero": "50.3%",
+        "p_of_all_visits": "4.5%",
+        "std": "0.80"
+      },
+      "(0, 2)": {
+        "mean": "0.62",
+        "median": "0",
+        "non_zero": "47.2%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.76"
+      },
+      "(1, 0)": {
+        "mean": "0.69",
+        "median": "1",
+        "non_zero": "51.7%",
+        "p_of_all_visits": "4.6%",
+        "std": "0.78"
+      },
+      "(1, 1)": {
+        "mean": "0.72",
+        "median": "1",
+        "non_zero": "51.9%",
+        "p_of_all_visits": "4.8%",
+        "std": "0.83"
+      },
+      "(1, 2)": {
+        "mean": "0.95",
+        "median": "1",
+        "non_zero": "64.5%",
+        "p_of_all_visits": "6.3%",
+        "std": "0.90"
+      },
+      "(1, 3)": {
+        "mean": "1.16",
+        "median": "1",
+        "non_zero": "72.0%",
+        "p_of_all_visits": "7.7%",
+        "std": "0.98"
+      },
+      "(2, 0)": {
+        "mean": "0.46",
+        "median": "0",
+        "non_zero": "30.0%",
+        "p_of_all_visits": "3.0%",
+        "std": "0.83"
+      },
+      "(2, 1)": {
+        "mean": "0.57",
+        "median": "0",
+        "non_zero": "44.7%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.73"
+      },
+      "(2, 2)": {
+        "mean": "1.64",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "11.0%",
+        "std": "0.76"
+      },
+      "(2, 3)": {
+        "mean": "1.10",
+        "median": "1",
+        "non_zero": "71.8%",
+        "p_of_all_visits": "7.3%",
+        "std": "0.93"
+      },
+      "(2, 4)": {
+        "mean": "1.22",
+        "median": "1",
+        "non_zero": "57.6%",
+        "p_of_all_visits": "8.1%",
+        "std": "1.46"
+      },
+      "(3, 0)": {
+        "mean": "0.63",
+        "median": "0",
+        "non_zero": "48.4%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.76"
+      },
+      "(3, 1)": {
+        "mean": "0.62",
+        "median": "0",
+        "non_zero": "47.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.77"
+      },
+      "(3, 2)": {
+        "mean": "0.82",
+        "median": "1",
+        "non_zero": "57.2%",
+        "p_of_all_visits": "5.4%",
+        "std": "0.87"
+      },
+      "(3, 3)": {
+        "mean": "0.97",
+        "median": "1",
+        "non_zero": "63.3%",
+        "p_of_all_visits": "6.5%",
+        "std": "0.95"
+      },
+      "(4, 0)": {
+        "mean": "0.46",
+        "median": "0",
+        "non_zero": "37.1%",
+        "p_of_all_visits": "3.1%",
+        "std": "0.67"
+      },
+      "(4, 1)": {
+        "mean": "0.67",
+        "median": "1",
+        "non_zero": "50.3%",
+        "p_of_all_visits": "4.5%",
+        "std": "0.79"
+      },
+      "(4, 2)": {
+        "mean": "0.49",
+        "median": "0",
+        "non_zero": "39.1%",
+        "p_of_all_visits": "3.3%",
+        "std": "0.70"
+      }
+    },
+    "n_iter": 15,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "8.02",
+        "median": "8",
+        "non_zero": "99.9%",
+        "p_of_all_visits": "40.1%",
+        "std": "2.38"
+      },
+      "bottom": {
+        "mean": "1.64",
+        "median": "1",
+        "non_zero": "67.7%",
+        "p_of_all_visits": "8.2%",
+        "std": "1.71"
+      },
+      "center": {
+        "mean": "1.89",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "9.5%",
+        "std": "0.89"
+      },
+      "collar": {
+        "mean": "2.68",
+        "median": "3",
+        "non_zero": "92.1%",
+        "p_of_all_visits": "13.4%",
+        "std": "1.65"
+      },
+      "left_lobe": {
+        "mean": "2.65",
+        "median": "2",
+        "non_zero": "87.3%",
+        "p_of_all_visits": "13.3%",
+        "std": "1.92"
+      },
+      "right_lobe": {
+        "mean": "2.46",
+        "median": "2",
+        "non_zero": "86.5%",
+        "p_of_all_visits": "12.3%",
+        "std": "1.82"
+      },
+      "top": {
+        "mean": "0.66",
+        "median": "0",
+        "non_zero": "40.2%",
+        "p_of_all_visits": "3.3%",
+        "std": "1.01"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.75",
+        "median": "1",
+        "non_zero": "52.6%",
+        "p_of_all_visits": "3.7%",
+        "std": "0.86"
+      },
+      "(0, 1)": {
+        "mean": "0.94",
+        "median": "1",
+        "non_zero": "61.8%",
+        "p_of_all_visits": "4.7%",
+        "std": "0.94"
+      },
+      "(0, 2)": {
+        "mean": "0.83",
+        "median": "1",
+        "non_zero": "57.7%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.88"
+      },
+      "(1, 0)": {
+        "mean": "0.97",
+        "median": "1",
+        "non_zero": "64.0%",
+        "p_of_all_visits": "4.8%",
+        "std": "0.93"
+      },
+      "(1, 1)": {
+        "mean": "0.97",
+        "median": "1",
+        "non_zero": "62.8%",
+        "p_of_all_visits": "4.8%",
+        "std": "0.96"
+      },
+      "(1, 2)": {
+        "mean": "1.21",
+        "median": "1",
+        "non_zero": "73.0%",
+        "p_of_all_visits": "6.0%",
+        "std": "1.02"
+      },
+      "(1, 3)": {
+        "mean": "1.54",
+        "median": "1",
+        "non_zero": "81.3%",
+        "p_of_all_visits": "7.7%",
+        "std": "1.14"
+      },
+      "(2, 0)": {
+        "mean": "0.66",
+        "median": "0",
+        "non_zero": "40.2%",
+        "p_of_all_visits": "3.3%",
+        "std": "1.01"
+      },
+      "(2, 1)": {
+        "mean": "0.82",
+        "median": "1",
+        "non_zero": "57.3%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.87"
+      },
+      "(2, 2)": {
+        "mean": "1.89",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "9.5%",
+        "std": "0.89"
+      },
+      "(2, 3)": {
+        "mean": "1.38",
+        "median": "1",
+        "non_zero": "79.0%",
+        "p_of_all_visits": "6.9%",
+        "std": "1.05"
+      },
+      "(2, 4)": {
+        "mean": "1.64",
+        "median": "1",
+        "non_zero": "67.7%",
+        "p_of_all_visits": "8.2%",
+        "std": "1.71"
+      },
+      "(3, 0)": {
+        "mean": "0.89",
+        "median": "1",
+        "non_zero": "60.8%",
+        "p_of_all_visits": "4.5%",
+        "std": "0.90"
+      },
+      "(3, 1)": {
+        "mean": "0.87",
+        "median": "1",
+        "non_zero": "58.7%",
+        "p_of_all_visits": "4.3%",
+        "std": "0.91"
+      },
+      "(3, 2)": {
+        "mean": "1.07",
+        "median": "1",
+        "non_zero": "66.9%",
+        "p_of_all_visits": "5.3%",
+        "std": "0.99"
+      },
+      "(3, 3)": {
+        "mean": "1.31",
+        "median": "1",
+        "non_zero": "73.9%",
+        "p_of_all_visits": "6.5%",
+        "std": "1.11"
+      },
+      "(4, 0)": {
+        "mean": "0.65",
+        "median": "0",
+        "non_zero": "47.9%",
+        "p_of_all_visits": "3.3%",
+        "std": "0.80"
+      },
+      "(4, 1)": {
+        "mean": "0.94",
+        "median": "1",
+        "non_zero": "62.3%",
+        "p_of_all_visits": "4.7%",
+        "std": "0.94"
+      },
+      "(4, 2)": {
+        "mean": "0.69",
+        "median": "0",
+        "non_zero": "49.8%",
+        "p_of_all_visits": "3.4%",
+        "std": "0.83"
+      }
+    },
+    "n_iter": 20,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "9.92",
+        "median": "10",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "39.7%",
+        "std": "2.68"
+      },
+      "bottom": {
+        "mean": "2.05",
+        "median": "2",
+        "non_zero": "75.3%",
+        "p_of_all_visits": "8.2%",
+        "std": "1.94"
+      },
+      "center": {
+        "mean": "2.14",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.6%",
+        "std": "1.00"
+      },
+      "collar": {
+        "mean": "3.47",
+        "median": "3",
+        "non_zero": "96.3%",
+        "p_of_all_visits": "13.9%",
+        "std": "1.88"
+      },
+      "left_lobe": {
+        "mean": "3.38",
+        "median": "3",
+        "non_zero": "92.7%",
+        "p_of_all_visits": "13.5%",
+        "std": "2.18"
+      },
+      "right_lobe": {
+        "mean": "3.16",
+        "median": "3",
+        "non_zero": "92.3%",
+        "p_of_all_visits": "12.6%",
+        "std": "2.06"
+      },
+      "top": {
+        "mean": "0.87",
+        "median": "0",
+        "non_zero": "49.1%",
+        "p_of_all_visits": "3.5%",
+        "std": "1.17"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.96",
+        "median": "1",
+        "non_zero": "61.8%",
+        "p_of_all_visits": "3.9%",
+        "std": "0.98"
+      },
+      "(0, 1)": {
+        "mean": "1.20",
+        "median": "1",
+        "non_zero": "70.7%",
+        "p_of_all_visits": "4.8%",
+        "std": "1.06"
+      },
+      "(0, 2)": {
+        "mean": "1.05",
+        "median": "1",
+        "non_zero": "66.3%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.99"
+      },
+      "(1, 0)": {
+        "mean": "1.25",
+        "median": "1",
+        "non_zero": "73.4%",
+        "p_of_all_visits": "5.0%",
+        "std": "1.05"
+      },
+      "(1, 1)": {
+        "mean": "1.22",
+        "median": "1",
+        "non_zero": "71.4%",
+        "p_of_all_visits": "4.9%",
+        "std": "1.08"
+      },
+      "(1, 2)": {
+        "mean": "1.46",
+        "median": "1",
+        "non_zero": "79.3%",
+        "p_of_all_visits": "5.8%",
+        "std": "1.12"
+      },
+      "(1, 3)": {
+        "mean": "1.92",
+        "median": "2",
+        "non_zero": "87.5%",
+        "p_of_all_visits": "7.7%",
+        "std": "1.28"
+      },
+      "(2, 0)": {
+        "mean": "0.87",
+        "median": "0",
+        "non_zero": "49.1%",
+        "p_of_all_visits": "3.5%",
+        "std": "1.17"
+      },
+      "(2, 1)": {
+        "mean": "1.07",
+        "median": "1",
+        "non_zero": "67.1%",
+        "p_of_all_visits": "4.3%",
+        "std": "0.99"
+      },
+      "(2, 2)": {
+        "mean": "2.14",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.6%",
+        "std": "1.00"
+      },
+      "(2, 3)": {
+        "mean": "1.65",
+        "median": "2",
+        "non_zero": "84.3%",
+        "p_of_all_visits": "6.6%",
+        "std": "1.16"
+      },
+      "(2, 4)": {
+        "mean": "2.05",
+        "median": "2",
+        "non_zero": "75.3%",
+        "p_of_all_visits": "8.2%",
+        "std": "1.94"
+      },
+      "(3, 0)": {
+        "mean": "1.16",
+        "median": "1",
+        "non_zero": "70.3%",
+        "p_of_all_visits": "4.6%",
+        "std": "1.02"
+      },
+      "(3, 1)": {
+        "mean": "1.11",
+        "median": "1",
+        "non_zero": "67.9%",
+        "p_of_all_visits": "4.4%",
+        "std": "1.03"
+      },
+      "(3, 2)": {
+        "mean": "1.31",
+        "median": "1",
+        "non_zero": "74.5%",
+        "p_of_all_visits": "5.2%",
+        "std": "1.10"
+      },
+      "(3, 3)": {
+        "mean": "1.64",
+        "median": "1",
+        "non_zero": "81.4%",
+        "p_of_all_visits": "6.6%",
+        "std": "1.25"
+      },
+      "(4, 0)": {
+        "mean": "0.84",
+        "median": "1",
+        "non_zero": "57.2%",
+        "p_of_all_visits": "3.4%",
+        "std": "0.91"
+      },
+      "(4, 1)": {
+        "mean": "1.21",
+        "median": "1",
+        "non_zero": "71.4%",
+        "p_of_all_visits": "4.8%",
+        "std": "1.06"
+      },
+      "(4, 2)": {
+        "mean": "0.88",
+        "median": "1",
+        "non_zero": "58.5%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.93"
+      }
+    },
+    "n_iter": 25,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "12.98",
+        "median": "13",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "39.3%",
+        "std": "3.11"
+      },
+      "bottom": {
+        "mean": "2.72",
+        "median": "2",
+        "non_zero": "84.0%",
+        "p_of_all_visits": "8.2%",
+        "std": "2.25"
+      },
+      "center": {
+        "mean": "2.54",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.7%",
+        "std": "1.16"
+      },
+      "collar": {
+        "mean": "4.73",
+        "median": "5",
+        "non_zero": "98.9%",
+        "p_of_all_visits": "14.3%",
+        "std": "2.19"
+      },
+      "left_lobe": {
+        "mean": "4.54",
+        "median": "4",
+        "non_zero": "96.9%",
+        "p_of_all_visits": "13.8%",
+        "std": "2.54"
+      },
+      "right_lobe": {
+        "mean": "4.28",
+        "median": "4",
+        "non_zero": "96.8%",
+        "p_of_all_visits": "13.0%",
+        "std": "2.40"
+      },
+      "top": {
+        "mean": "1.22",
+        "median": "1",
+        "non_zero": "60.7%",
+        "p_of_all_visits": "3.7%",
+        "std": "1.39"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "1.31",
+        "median": "1",
+        "non_zero": "72.9%",
+        "p_of_all_visits": "4.0%",
+        "std": "1.14"
+      },
+      "(0, 1)": {
+        "mean": "1.61",
+        "median": "1",
+        "non_zero": "80.8%",
+        "p_of_all_visits": "4.9%",
+        "std": "1.24"
+      },
+      "(0, 2)": {
+        "mean": "1.39",
+        "median": "1",
+        "non_zero": "76.2%",
+        "p_of_all_visits": "4.2%",
+        "std": "1.15"
+      },
+      "(1, 0)": {
+        "mean": "1.69",
+        "median": "2",
+        "non_zero": "83.3%",
+        "p_of_all_visits": "5.1%",
+        "std": "1.23"
+      },
+      "(1, 1)": {
+        "mean": "1.62",
+        "median": "1",
+        "non_zero": "81.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "1.24"
+      },
+      "(1, 2)": {
+        "mean": "1.87",
+        "median": "2",
+        "non_zero": "86.6%",
+        "p_of_all_visits": "5.7%",
+        "std": "1.28"
+      },
+      "(1, 3)": {
+        "mean": "2.53",
+        "median": "2",
+        "non_zero": "93.4%",
+        "p_of_all_visits": "7.7%",
+        "std": "1.48"
+      },
+      "(2, 0)": {
+        "mean": "1.22",
+        "median": "1",
+        "non_zero": "60.7%",
+        "p_of_all_visits": "3.7%",
+        "std": "1.39"
+      },
+      "(2, 1)": {
+        "mean": "1.46",
+        "median": "1",
+        "non_zero": "78.3%",
+        "p_of_all_visits": "4.4%",
+        "std": "1.15"
+      },
+      "(2, 2)": {
+        "mean": "2.54",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.7%",
+        "std": "1.16"
+      },
+      "(2, 3)": {
+        "mean": "2.10",
+        "median": "2",
+        "non_zero": "90.2%",
+        "p_of_all_visits": "6.4%",
+        "std": "1.32"
+      },
+      "(2, 4)": {
+        "mean": "2.72",
+        "median": "2",
+        "non_zero": "84.0%",
+        "p_of_all_visits": "8.2%",
+        "std": "2.25"
+      },
+      "(3, 0)": {
+        "mean": "1.58",
+        "median": "1",
+        "non_zero": "80.9%",
+        "p_of_all_visits": "4.8%",
+        "std": "1.20"
+      },
+      "(3, 1)": {
+        "mean": "1.49",
+        "median": "1",
+        "non_zero": "78.4%",
+        "p_of_all_visits": "4.5%",
+        "std": "1.19"
+      },
+      "(3, 2)": {
+        "mean": "1.71",
+        "median": "2",
+        "non_zero": "83.1%",
+        "p_of_all_visits": "5.2%",
+        "std": "1.26"
+      },
+      "(3, 3)": {
+        "mean": "2.18",
+        "median": "2",
+        "non_zero": "89.3%",
+        "p_of_all_visits": "6.6%",
+        "std": "1.44"
+      },
+      "(4, 0)": {
+        "mean": "1.15",
+        "median": "1",
+        "non_zero": "68.4%",
+        "p_of_all_visits": "3.5%",
+        "std": "1.07"
+      },
+      "(4, 1)": {
+        "mean": "1.63",
+        "median": "1",
+        "non_zero": "81.6%",
+        "p_of_all_visits": "5.0%",
+        "std": "1.23"
+      },
+      "(4, 2)": {
+        "mean": "1.19",
+        "median": "1",
+        "non_zero": "69.6%",
+        "p_of_all_visits": "3.6%",
+        "std": "1.09"
+      }
+    },
+    "n_iter": 33,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "19.48",
+        "median": "19",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "39.0%",
+        "std": "3.86"
+      },
+      "bottom": {
+        "mean": "4.14",
+        "median": "4",
+        "non_zero": "93.7%",
+        "p_of_all_visits": "8.3%",
+        "std": "2.79"
+      },
+      "center": {
+        "mean": "3.38",
+        "median": "3",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.8%",
+        "std": "1.43"
+      },
+      "collar": {
+        "mean": "7.41",
+        "median": "7",
+        "non_zero": "99.9%",
+        "p_of_all_visits": "14.8%",
+        "std": "2.74"
+      },
+      "left_lobe": {
+        "mean": "7.03",
+        "median": "7",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "14.1%",
+        "std": "3.16"
+      },
+      "right_lobe": {
+        "mean": "6.63",
+        "median": "6",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "13.3%",
+        "std": "3.01"
+      },
+      "top": {
+        "mean": "1.92",
+        "median": "2",
+        "non_zero": "77.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "1.75"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "2.05",
+        "median": "2",
+        "non_zero": "86.9%",
+        "p_of_all_visits": "4.1%",
+        "std": "1.43"
+      },
+      "(0, 1)": {
+        "mean": "2.49",
+        "median": "2",
+        "non_zero": "92.2%",
+        "p_of_all_visits": "5.0%",
+        "std": "1.54"
+      },
+      "(0, 2)": {
+        "mean": "2.15",
+        "median": "2",
+        "non_zero": "89.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "1.42"
+      },
+      "(1, 0)": {
+        "mean": "2.65",
+        "median": "3",
+        "non_zero": "94.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "1.54"
+      },
+      "(1, 1)": {
+        "mean": "2.49",
+        "median": "2",
+        "non_zero": "92.3%",
+        "p_of_all_visits": "5.0%",
+        "std": "1.53"
+      },
+      "(1, 2)": {
+        "mean": "2.75",
+        "median": "3",
+        "non_zero": "94.7%",
+        "p_of_all_visits": "5.5%",
+        "std": "1.56"
+      },
+      "(1, 3)": {
+        "mean": "3.83",
+        "median": "4",
+        "non_zero": "98.4%",
+        "p_of_all_visits": "7.7%",
+        "std": "1.83"
+      },
+      "(2, 0)": {
+        "mean": "1.92",
+        "median": "2",
+        "non_zero": "77.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "1.75"
+      },
+      "(2, 1)": {
+        "mean": "2.29",
+        "median": "2",
+        "non_zero": "91.1%",
+        "p_of_all_visits": "4.6%",
+        "std": "1.44"
+      },
+      "(2, 2)": {
+        "mean": "3.38",
+        "median": "3",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.8%",
+        "std": "1.43"
+      },
+      "(2, 3)": {
+        "mean": "3.04",
+        "median": "3",
+        "non_zero": "96.4%",
+        "p_of_all_visits": "6.1%",
+        "std": "1.61"
+      },
+      "(2, 4)": {
+        "mean": "4.14",
+        "median": "4",
+        "non_zero": "93.7%",
+        "p_of_all_visits": "8.3%",
+        "std": "2.79"
+      },
+      "(3, 0)": {
+        "mean": "2.47",
+        "median": "2",
+        "non_zero": "92.6%",
+        "p_of_all_visits": "4.9%",
+        "std": "1.50"
+      },
+      "(3, 1)": {
+        "mean": "2.30",
+        "median": "2",
+        "non_zero": "90.6%",
+        "p_of_all_visits": "4.6%",
+        "std": "1.48"
+      },
+      "(3, 2)": {
+        "mean": "2.54",
+        "median": "2",
+        "non_zero": "92.7%",
+        "p_of_all_visits": "5.1%",
+        "std": "1.54"
+      },
+      "(3, 3)": {
+        "mean": "3.33",
+        "median": "3",
+        "non_zero": "96.7%",
+        "p_of_all_visits": "6.7%",
+        "std": "1.78"
+      },
+      "(4, 0)": {
+        "mean": "1.80",
+        "median": "2",
+        "non_zero": "83.5%",
+        "p_of_all_visits": "3.6%",
+        "std": "1.33"
+      },
+      "(4, 1)": {
+        "mean": "2.53",
+        "median": "2",
+        "non_zero": "92.7%",
+        "p_of_all_visits": "5.1%",
+        "std": "1.54"
+      },
+      "(4, 2)": {
+        "mean": "1.84",
+        "median": "2",
+        "non_zero": "84.0%",
+        "p_of_all_visits": "3.7%",
+        "std": "1.36"
+      }
+    },
+    "n_iter": 50,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "38.61",
+        "median": "39",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.6%",
+        "std": "5.51"
+      },
+      "bottom": {
+        "mean": "8.31",
+        "median": "8",
+        "non_zero": "99.6%",
+        "p_of_all_visits": "8.3%",
+        "std": "3.99"
+      },
+      "center": {
+        "mean": "5.85",
+        "median": "6",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.9%",
+        "std": "2.04"
+      },
+      "collar": {
+        "mean": "15.28",
+        "median": "15",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.3%",
+        "std": "3.93"
+      },
+      "left_lobe": {
+        "mean": "14.29",
+        "median": "14",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.3%",
+        "std": "4.51"
+      },
+      "right_lobe": {
+        "mean": "13.63",
+        "median": "13",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "13.6%",
+        "std": "4.32"
+      },
+      "top": {
+        "mean": "4.03",
+        "median": "4",
+        "non_zero": "95.3%",
+        "p_of_all_visits": "4.0%",
+        "std": "2.54"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "4.21",
+        "median": "4",
+        "non_zero": "98.5%",
+        "p_of_all_visits": "4.2%",
+        "std": "2.06"
+      },
+      "(0, 1)": {
+        "mean": "5.08",
+        "median": "5",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "5.1%",
+        "std": "2.19"
+      },
+      "(0, 2)": {
+        "mean": "4.33",
+        "median": "4",
+        "non_zero": "98.8%",
+        "p_of_all_visits": "4.3%",
+        "std": "2.02"
+      },
+      "(1, 0)": {
+        "mean": "5.44",
+        "median": "5",
+        "non_zero": "99.7%",
+        "p_of_all_visits": "5.4%",
+        "std": "2.21"
+      },
+      "(1, 1)": {
+        "mean": "5.00",
+        "median": "5",
+        "non_zero": "99.4%",
+        "p_of_all_visits": "5.0%",
+        "std": "2.16"
+      },
+      "(1, 2)": {
+        "mean": "5.30",
+        "median": "5",
+        "non_zero": "99.6%",
+        "p_of_all_visits": "5.3%",
+        "std": "2.17"
+      },
+      "(1, 3)": {
+        "mean": "7.65",
+        "median": "8",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.7%",
+        "std": "2.59"
+      },
+      "(2, 0)": {
+        "mean": "4.03",
+        "median": "4",
+        "non_zero": "95.3%",
+        "p_of_all_visits": "4.0%",
+        "std": "2.54"
+      },
+      "(2, 1)": {
+        "mean": "4.75",
+        "median": "5",
+        "non_zero": "99.3%",
+        "p_of_all_visits": "4.7%",
+        "std": "2.07"
+      },
+      "(2, 2)": {
+        "mean": "5.85",
+        "median": "6",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.9%",
+        "std": "2.04"
+      },
+      "(2, 3)": {
+        "mean": "5.82",
+        "median": "6",
+        "non_zero": "99.8%",
+        "p_of_all_visits": "5.8%",
+        "std": "2.26"
+      },
+      "(2, 4)": {
+        "mean": "8.31",
+        "median": "8",
+        "non_zero": "99.6%",
+        "p_of_all_visits": "8.3%",
+        "std": "3.99"
+      },
+      "(3, 0)": {
+        "mean": "5.09",
+        "median": "5",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "5.1%",
+        "std": "2.16"
+      },
+      "(3, 1)": {
+        "mean": "4.71",
+        "median": "5",
+        "non_zero": "99.3%",
+        "p_of_all_visits": "4.7%",
+        "std": "2.10"
+      },
+      "(3, 2)": {
+        "mean": "5.03",
+        "median": "5",
+        "non_zero": "99.4%",
+        "p_of_all_visits": "5.0%",
+        "std": "2.17"
+      },
+      "(3, 3)": {
+        "mean": "6.70",
+        "median": "7",
+        "non_zero": "99.9%",
+        "p_of_all_visits": "6.7%",
+        "std": "2.54"
+      },
+      "(4, 0)": {
+        "mean": "3.73",
+        "median": "4",
+        "non_zero": "97.6%",
+        "p_of_all_visits": "3.7%",
+        "std": "1.93"
+      },
+      "(4, 1)": {
+        "mean": "5.20",
+        "median": "5",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "5.2%",
+        "std": "2.21"
+      },
+      "(4, 2)": {
+        "mean": "3.78",
+        "median": "4",
+        "non_zero": "97.6%",
+        "p_of_all_visits": "3.8%",
+        "std": "1.95"
+      }
+    },
+    "n_iter": 100,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "382.77",
+        "median": "383",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.3%",
+        "std": "17.50"
+      },
+      "bottom": {
+        "mean": "83.52",
+        "median": "83",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.4%",
+        "std": "12.74"
+      },
+      "center": {
+        "mean": "50.40",
+        "median": "50",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "6.48"
+      },
+      "collar": {
+        "mean": "157.11",
+        "median": "157",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.7%",
+        "std": "12.57"
+      },
+      "left_lobe": {
+        "mean": "145.01",
+        "median": "145",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.5%",
+        "std": "14.46"
+      },
+      "right_lobe": {
+        "mean": "139.30",
+        "median": "139",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "13.9%",
+        "std": "14.01"
+      },
+      "top": {
+        "mean": "41.88",
+        "median": "42",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "8.24"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "43.06",
+        "median": "43",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "6.62"
+      },
+      "(0, 1)": {
+        "mean": "51.49",
+        "median": "51",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "7.04"
+      },
+      "(0, 2)": {
+        "mean": "43.52",
+        "median": "43",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.4%",
+        "std": "6.33"
+      },
+      "(1, 0)": {
+        "mean": "55.89",
+        "median": "56",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "7.04"
+      },
+      "(1, 1)": {
+        "mean": "50.45",
+        "median": "50",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "6.90"
+      },
+      "(1, 2)": {
+        "mean": "51.55",
+        "median": "51",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "6.71"
+      },
+      "(1, 3)": {
+        "mean": "76.57",
+        "median": "76",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.7%",
+        "std": "8.19"
+      },
+      "(2, 0)": {
+        "mean": "41.88",
+        "median": "42",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "8.24"
+      },
+      "(2, 1)": {
+        "mean": "49.00",
+        "median": "49",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "6.69"
+      },
+      "(2, 2)": {
+        "mean": "50.40",
+        "median": "50",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "6.48"
+      },
+      "(2, 3)": {
+        "mean": "55.82",
+        "median": "56",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "7.10"
+      },
+      "(2, 4)": {
+        "mean": "83.52",
+        "median": "83",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.4%",
+        "std": "12.74"
+      },
+      "(3, 0)": {
+        "mean": "52.22",
+        "median": "52",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "6.89"
+      },
+      "(3, 1)": {
+        "mean": "47.96",
+        "median": "48",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.8%",
+        "std": "6.73"
+      },
+      "(3, 2)": {
+        "mean": "49.49",
+        "median": "49",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "6.75"
+      },
+      "(3, 3)": {
+        "mean": "67.31",
+        "median": "67",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.7%",
+        "std": "8.06"
+      },
+      "(4, 0)": {
+        "mean": "38.27",
+        "median": "38",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "6.24"
+      },
+      "(4, 1)": {
+        "mean": "53.08",
+        "median": "53",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "7.12"
+      },
+      "(4, 2)": {
+        "mean": "38.51",
+        "median": "38",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.9%",
+        "std": "6.27"
+      }
+    },
+    "n_iter": 1000,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "3823.94",
+        "median": "3825",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.2%",
+        "std": "55.72"
+      },
+      "bottom": {
+        "mean": "834.56",
+        "median": "834",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.3%",
+        "std": "41.46"
+      },
+      "center": {
+        "mean": "496.09",
+        "median": "496",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "20.49"
+      },
+      "collar": {
+        "mean": "1576.04",
+        "median": "1574",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.8%",
+        "std": "40.20"
+      },
+      "left_lobe": {
+        "mean": "1451.99",
+        "median": "1454",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.5%",
+        "std": "46.16"
+      },
+      "right_lobe": {
+        "mean": "1396.26",
+        "median": "1397",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.0%",
+        "std": "44.41"
+      },
+      "top": {
+        "mean": "421.12",
+        "median": "420",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "26.66"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "432.10",
+        "median": "432",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "19.87"
+      },
+      "(0, 1)": {
+        "mean": "516.37",
+        "median": "517",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "22.74"
+      },
+      "(0, 2)": {
+        "mean": "436.00",
+        "median": "436",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.4%",
+        "std": "20.61"
+      },
+      "(1, 0)": {
+        "mean": "559.73",
+        "median": "559",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "22.23"
+      },
+      "(1, 1)": {
+        "mean": "503.53",
+        "median": "503",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "22.28"
+      },
+      "(1, 2)": {
+        "mean": "513.01",
+        "median": "513",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "22.13"
+      },
+      "(1, 3)": {
+        "mean": "763.21",
+        "median": "762",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.6%",
+        "std": "26.69"
+      },
+      "(2, 0)": {
+        "mean": "421.12",
+        "median": "420",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "26.66"
+      },
+      "(2, 1)": {
+        "mean": "491.51",
+        "median": "491",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "21.56"
+      },
+      "(2, 2)": {
+        "mean": "496.09",
+        "median": "496",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "20.49"
+      },
+      "(2, 3)": {
+        "mean": "556.52",
+        "median": "556",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "22.60"
+      },
+      "(2, 4)": {
+        "mean": "834.56",
+        "median": "834",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.3%",
+        "std": "41.46"
+      },
+      "(3, 0)": {
+        "mean": "524.80",
+        "median": "524",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "21.34"
+      },
+      "(3, 1)": {
+        "mean": "481.26",
+        "median": "481",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.8%",
+        "std": "22.33"
+      },
+      "(3, 2)": {
+        "mean": "495.54",
+        "median": "496",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "21.24"
+      },
+      "(3, 3)": {
+        "mean": "674.76",
+        "median": "674",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.7%",
+        "std": "24.87"
+      },
+      "(4, 0)": {
+        "mean": "384.23",
+        "median": "385",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "19.80"
+      },
+      "(4, 1)": {
+        "mean": "530.77",
+        "median": "531",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "21.76"
+      },
+      "(4, 2)": {
+        "mean": "384.90",
+        "median": "385",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "19.50"
+      }
+    },
+    "n_iter": 10000,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "38225.52",
+        "median": "38229",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.2%",
+        "std": "163.29"
+      },
+      "bottom": {
+        "mean": "8333.97",
+        "median": "8315",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.3%",
+        "std": "128.48"
+      },
+      "center": {
+        "mean": "4965.11",
+        "median": "4960",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "64.33"
+      },
+      "collar": {
+        "mean": "15770.46",
+        "median": "15765",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.8%",
+        "std": "117.77"
+      },
+      "left_lobe": {
+        "mean": "14531.65",
+        "median": "14534",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.5%",
+        "std": "128.21"
+      },
+      "right_lobe": {
+        "mean": "13955.10",
+        "median": "13971",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.0%",
+        "std": "146.26"
+      },
+      "top": {
+        "mean": "4218.19",
+        "median": "4216",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "85.57"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "4320.84",
+        "median": "4314",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "58.53"
+      },
+      "(0, 1)": {
+        "mean": "5162.39",
+        "median": "5164",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "67.39"
+      },
+      "(0, 2)": {
+        "mean": "4364.82",
+        "median": "4367",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.4%",
+        "std": "58.59"
+      },
+      "(1, 0)": {
+        "mean": "5604.09",
+        "median": "5598",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "57.94"
+      },
+      "(1, 1)": {
+        "mean": "5048.42",
+        "median": "5053",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "61.27"
+      },
+      "(1, 2)": {
+        "mean": "5128.31",
+        "median": "5122",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "66.67"
+      },
+      "(1, 3)": {
+        "mean": "7646.65",
+        "median": "7645",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.6%",
+        "std": "83.62"
+      },
+      "(2, 0)": {
+        "mean": "4218.19",
+        "median": "4216",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "85.57"
+      },
+      "(2, 1)": {
+        "mean": "4920.83",
+        "median": "4923",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "61.68"
+      },
+      "(2, 2)": {
+        "mean": "4965.11",
+        "median": "4960",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "64.33"
+      },
+      "(2, 3)": {
+        "mean": "5547.98",
+        "median": "5544",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.5%",
+        "std": "70.82"
+      },
+      "(2, 4)": {
+        "mean": "8333.97",
+        "median": "8315",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.3%",
+        "std": "128.48"
+      },
+      "(3, 0)": {
+        "mean": "5245.54",
+        "median": "5240",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "58.12"
+      },
+      "(3, 1)": {
+        "mean": "4805.32",
+        "median": "4812",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.8%",
+        "std": "67.33"
+      },
+      "(3, 2)": {
+        "mean": "4941.89",
+        "median": "4948",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "67.04"
+      },
+      "(3, 3)": {
+        "mean": "6733.89",
+        "median": "6730",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.7%",
+        "std": "78.37"
+      },
+      "(4, 0)": {
+        "mean": "3841.75",
+        "median": "3840",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "64.01"
+      },
+      "(4, 1)": {
+        "mean": "5308.03",
+        "median": "5307",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "72.07"
+      },
+      "(4, 2)": {
+        "mean": "3861.98",
+        "median": "3864",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.9%",
+        "std": "59.98"
+      }
+    },
+    "n_iter": 100000,
+    "start_hex": "(2, 2)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "1.09",
+        "median": "1",
+        "non_zero": "90.7%",
+        "p_of_all_visits": "36.4%",
+        "std": "0.52"
+      },
+      "bottom": {
+        "mean": "1.55",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "51.7%",
+        "std": "0.66"
+      },
+      "center": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.1%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.03"
+      },
+      "collar": {
+        "mean": "0.20",
+        "median": "0",
+        "non_zero": "20.4%",
+        "p_of_all_visits": "6.8%",
+        "std": "0.40"
+      },
+      "left_lobe": {
+        "mean": "0.05",
+        "median": "0",
+        "non_zero": "5.4%",
+        "p_of_all_visits": "1.8%",
+        "std": "0.23"
+      },
+      "right_lobe": {
+        "mean": "0.10",
+        "median": "0",
+        "non_zero": "9.7%",
+        "p_of_all_visits": "3.2%",
+        "std": "0.30"
+      },
+      "top": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.0%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.00"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.0%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.00"
+      },
+      "(0, 1)": {
+        "mean": "0.05",
+        "median": "0",
+        "non_zero": "5.4%",
+        "p_of_all_visits": "1.8%",
+        "std": "0.23"
+      },
+      "(0, 2)": {
+        "mean": "0.05",
+        "median": "0",
+        "non_zero": "5.4%",
+        "p_of_all_visits": "1.8%",
+        "std": "0.23"
+      },
+      "(1, 0)": {
+        "mean": "0.12",
+        "median": "0",
+        "non_zero": "11.9%",
+        "p_of_all_visits": "4.0%",
+        "std": "0.32"
+      },
+      "(1, 1)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.0%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.00"
+      },
+      "(1, 2)": {
+        "mean": "0.01",
+        "median": "0",
+        "non_zero": "1.5%",
+        "p_of_all_visits": "0.5%",
+        "std": "0.12"
+      },
+      "(1, 3)": {
+        "mean": "0.51",
+        "median": "1",
+        "non_zero": "51.4%",
+        "p_of_all_visits": "17.1%",
+        "std": "0.50"
+      },
+      "(2, 0)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.0%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.00"
+      },
+      "(2, 1)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.0%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.00"
+      },
+      "(2, 2)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.1%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.03"
+      },
+      "(2, 3)": {
+        "mean": "0.11",
+        "median": "0",
+        "non_zero": "10.7%",
+        "p_of_all_visits": "3.6%",
+        "std": "0.31"
+      },
+      "(2, 4)": {
+        "mean": "1.55",
+        "median": "1",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "51.7%",
+        "std": "0.66"
+      },
+      "(3, 0)": {
+        "mean": "0.08",
+        "median": "0",
+        "non_zero": "8.5%",
+        "p_of_all_visits": "2.8%",
+        "std": "0.28"
+      },
+      "(3, 1)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.0%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.00"
+      },
+      "(3, 2)": {
+        "mean": "0.01",
+        "median": "0",
+        "non_zero": "1.0%",
+        "p_of_all_visits": "0.3%",
+        "std": "0.10"
+      },
+      "(3, 3)": {
+        "mean": "0.37",
+        "median": "0",
+        "non_zero": "36.8%",
+        "p_of_all_visits": "12.3%",
+        "std": "0.48"
+      },
+      "(4, 0)": {
+        "mean": "0.00",
+        "median": "0",
+        "non_zero": "0.0%",
+        "p_of_all_visits": "0.0%",
+        "std": "0.00"
+      },
+      "(4, 1)": {
+        "mean": "0.10",
+        "median": "0",
+        "non_zero": "9.7%",
+        "p_of_all_visits": "3.2%",
+        "std": "0.30"
+      },
+      "(4, 2)": {
+        "mean": "0.02",
+        "median": "0",
+        "non_zero": "2.3%",
+        "p_of_all_visits": "0.8%",
+        "std": "0.15"
+      }
+    },
+    "n_iter": 3,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "1.88",
+        "median": "2",
+        "non_zero": "99.1%",
+        "p_of_all_visits": "37.6%",
+        "std": "0.87"
+      },
+      "bottom": {
+        "mean": "1.83",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "36.6%",
+        "std": "0.97"
+      },
+      "center": {
+        "mean": "0.05",
+        "median": "0",
+        "non_zero": "4.6%",
+        "p_of_all_visits": "0.9%",
+        "std": "0.21"
+      },
+      "collar": {
+        "mean": "0.51",
+        "median": "0",
+        "non_zero": "39.6%",
+        "p_of_all_visits": "10.2%",
+        "std": "0.70"
+      },
+      "left_lobe": {
+        "mean": "0.31",
+        "median": "0",
+        "non_zero": "25.2%",
+        "p_of_all_visits": "6.3%",
+        "std": "0.58"
+      },
+      "right_lobe": {
+        "mean": "0.37",
+        "median": "0",
+        "non_zero": "29.2%",
+        "p_of_all_visits": "7.3%",
+        "std": "0.63"
+      },
+      "top": {
+        "mean": "0.06",
+        "median": "0",
+        "non_zero": "5.4%",
+        "p_of_all_visits": "1.2%",
+        "std": "0.26"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.09",
+        "median": "0",
+        "non_zero": "9.2%",
+        "p_of_all_visits": "1.8%",
+        "std": "0.29"
+      },
+      "(0, 1)": {
+        "mean": "0.14",
+        "median": "0",
+        "non_zero": "13.1%",
+        "p_of_all_visits": "2.7%",
+        "std": "0.36"
+      },
+      "(0, 2)": {
+        "mean": "0.13",
+        "median": "0",
+        "non_zero": "12.8%",
+        "p_of_all_visits": "2.6%",
+        "std": "0.35"
+      },
+      "(1, 0)": {
+        "mean": "0.25",
+        "median": "0",
+        "non_zero": "23.4%",
+        "p_of_all_visits": "4.9%",
+        "std": "0.46"
+      },
+      "(1, 1)": {
+        "mean": "0.08",
+        "median": "0",
+        "non_zero": "8.4%",
+        "p_of_all_visits": "1.7%",
+        "std": "0.28"
+      },
+      "(1, 2)": {
+        "mean": "0.08",
+        "median": "0",
+        "non_zero": "7.4%",
+        "p_of_all_visits": "1.5%",
+        "std": "0.27"
+      },
+      "(1, 3)": {
+        "mean": "0.75",
+        "median": "1",
+        "non_zero": "64.4%",
+        "p_of_all_visits": "15.0%",
+        "std": "0.63"
+      },
+      "(2, 0)": {
+        "mean": "0.06",
+        "median": "0",
+        "non_zero": "5.4%",
+        "p_of_all_visits": "1.2%",
+        "std": "0.26"
+      },
+      "(2, 1)": {
+        "mean": "0.08",
+        "median": "0",
+        "non_zero": "8.2%",
+        "p_of_all_visits": "1.6%",
+        "std": "0.27"
+      },
+      "(2, 2)": {
+        "mean": "0.05",
+        "median": "0",
+        "non_zero": "4.6%",
+        "p_of_all_visits": "0.9%",
+        "std": "0.21"
+      },
+      "(2, 3)": {
+        "mean": "0.19",
+        "median": "0",
+        "non_zero": "17.6%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.43"
+      },
+      "(2, 4)": {
+        "mean": "1.83",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "36.6%",
+        "std": "0.97"
+      },
+      "(3, 0)": {
+        "mean": "0.18",
+        "median": "0",
+        "non_zero": "16.9%",
+        "p_of_all_visits": "3.6%",
+        "std": "0.41"
+      },
+      "(3, 1)": {
+        "mean": "0.08",
+        "median": "0",
+        "non_zero": "7.9%",
+        "p_of_all_visits": "1.6%",
+        "std": "0.27"
+      },
+      "(3, 2)": {
+        "mean": "0.08",
+        "median": "0",
+        "non_zero": "8.2%",
+        "p_of_all_visits": "1.7%",
+        "std": "0.28"
+      },
+      "(3, 3)": {
+        "mean": "0.55",
+        "median": "0",
+        "non_zero": "47.3%",
+        "p_of_all_visits": "10.9%",
+        "std": "0.63"
+      },
+      "(4, 0)": {
+        "mean": "0.07",
+        "median": "0",
+        "non_zero": "7.4%",
+        "p_of_all_visits": "1.5%",
+        "std": "0.26"
+      },
+      "(4, 1)": {
+        "mean": "0.21",
+        "median": "0",
+        "non_zero": "20.3%",
+        "p_of_all_visits": "4.3%",
+        "std": "0.44"
+      },
+      "(4, 2)": {
+        "mean": "0.10",
+        "median": "0",
+        "non_zero": "9.9%",
+        "p_of_all_visits": "2.0%",
+        "std": "0.31"
+      }
+    },
+    "n_iter": 5,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "3.78",
+        "median": "4",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "37.8%",
+        "std": "1.51"
+      },
+      "bottom": {
+        "mean": "2.26",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "22.6%",
+        "std": "1.38"
+      },
+      "center": {
+        "mean": "0.28",
+        "median": "0",
+        "non_zero": "25.2%",
+        "p_of_all_visits": "2.8%",
+        "std": "0.51"
+      },
+      "collar": {
+        "mean": "1.30",
+        "median": "1",
+        "non_zero": "71.4%",
+        "p_of_all_visits": "13.0%",
+        "std": "1.14"
+      },
+      "left_lobe": {
+        "mean": "1.04",
+        "median": "1",
+        "non_zero": "57.4%",
+        "p_of_all_visits": "10.4%",
+        "std": "1.16"
+      },
+      "right_lobe": {
+        "mean": "1.06",
+        "median": "1",
+        "non_zero": "59.8%",
+        "p_of_all_visits": "10.6%",
+        "std": "1.15"
+      },
+      "top": {
+        "mean": "0.27",
+        "median": "0",
+        "non_zero": "19.4%",
+        "p_of_all_visits": "2.7%",
+        "std": "0.63"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.31",
+        "median": "0",
+        "non_zero": "27.0%",
+        "p_of_all_visits": "3.1%",
+        "std": "0.55"
+      },
+      "(0, 1)": {
+        "mean": "0.39",
+        "median": "0",
+        "non_zero": "33.1%",
+        "p_of_all_visits": "3.9%",
+        "std": "0.61"
+      },
+      "(0, 2)": {
+        "mean": "0.35",
+        "median": "0",
+        "non_zero": "29.8%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.57"
+      },
+      "(1, 0)": {
+        "mean": "0.53",
+        "median": "0",
+        "non_zero": "43.8%",
+        "p_of_all_visits": "5.3%",
+        "std": "0.68"
+      },
+      "(1, 1)": {
+        "mean": "0.34",
+        "median": "0",
+        "non_zero": "29.3%",
+        "p_of_all_visits": "3.4%",
+        "std": "0.56"
+      },
+      "(1, 2)": {
+        "mean": "0.32",
+        "median": "0",
+        "non_zero": "28.2%",
+        "p_of_all_visits": "3.2%",
+        "std": "0.55"
+      },
+      "(1, 3)": {
+        "mean": "1.14",
+        "median": "1",
+        "non_zero": "76.8%",
+        "p_of_all_visits": "11.4%",
+        "std": "0.86"
+      },
+      "(2, 0)": {
+        "mean": "0.27",
+        "median": "0",
+        "non_zero": "19.4%",
+        "p_of_all_visits": "2.7%",
+        "std": "0.63"
+      },
+      "(2, 1)": {
+        "mean": "0.33",
+        "median": "0",
+        "non_zero": "28.8%",
+        "p_of_all_visits": "3.3%",
+        "std": "0.55"
+      },
+      "(2, 2)": {
+        "mean": "0.28",
+        "median": "0",
+        "non_zero": "25.2%",
+        "p_of_all_visits": "2.8%",
+        "std": "0.51"
+      },
+      "(2, 3)": {
+        "mean": "0.46",
+        "median": "0",
+        "non_zero": "37.6%",
+        "p_of_all_visits": "4.6%",
+        "std": "0.65"
+      },
+      "(2, 4)": {
+        "mean": "2.26",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "22.6%",
+        "std": "1.38"
+      },
+      "(3, 0)": {
+        "mean": "0.44",
+        "median": "0",
+        "non_zero": "37.1%",
+        "p_of_all_visits": "4.4%",
+        "std": "0.63"
+      },
+      "(3, 1)": {
+        "mean": "0.32",
+        "median": "0",
+        "non_zero": "27.8%",
+        "p_of_all_visits": "3.2%",
+        "std": "0.55"
+      },
+      "(3, 2)": {
+        "mean": "0.33",
+        "median": "0",
+        "non_zero": "28.6%",
+        "p_of_all_visits": "3.3%",
+        "std": "0.56"
+      },
+      "(3, 3)": {
+        "mean": "0.89",
+        "median": "1",
+        "non_zero": "63.0%",
+        "p_of_all_visits": "8.9%",
+        "std": "0.85"
+      },
+      "(4, 0)": {
+        "mean": "0.26",
+        "median": "0",
+        "non_zero": "23.5%",
+        "p_of_all_visits": "2.6%",
+        "std": "0.51"
+      },
+      "(4, 1)": {
+        "mean": "0.48",
+        "median": "0",
+        "non_zero": "39.8%",
+        "p_of_all_visits": "4.8%",
+        "std": "0.66"
+      },
+      "(4, 2)": {
+        "mean": "0.30",
+        "median": "0",
+        "non_zero": "26.0%",
+        "p_of_all_visits": "3.0%",
+        "std": "0.54"
+      }
+    },
+    "n_iter": 10,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "5.69",
+        "median": "6",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "37.9%",
+        "std": "1.96"
+      },
+      "bottom": {
+        "mean": "2.68",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "17.9%",
+        "std": "1.65"
+      },
+      "center": {
+        "mean": "0.53",
+        "median": "0",
+        "non_zero": "42.8%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.69"
+      },
+      "collar": {
+        "mean": "2.09",
+        "median": "2",
+        "non_zero": "86.5%",
+        "p_of_all_visits": "14.0%",
+        "std": "1.45"
+      },
+      "left_lobe": {
+        "mean": "1.76",
+        "median": "2",
+        "non_zero": "75.4%",
+        "p_of_all_visits": "11.8%",
+        "std": "1.54"
+      },
+      "right_lobe": {
+        "mean": "1.76",
+        "median": "2",
+        "non_zero": "76.9%",
+        "p_of_all_visits": "11.7%",
+        "std": "1.51"
+      },
+      "top": {
+        "mean": "0.48",
+        "median": "0",
+        "non_zero": "31.4%",
+        "p_of_all_visits": "3.2%",
+        "std": "0.86"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.53",
+        "median": "0",
+        "non_zero": "41.1%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.72"
+      },
+      "(0, 1)": {
+        "mean": "0.65",
+        "median": "0",
+        "non_zero": "48.7%",
+        "p_of_all_visits": "4.3%",
+        "std": "0.78"
+      },
+      "(0, 2)": {
+        "mean": "0.56",
+        "median": "0",
+        "non_zero": "44.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.73"
+      },
+      "(1, 0)": {
+        "mean": "0.81",
+        "median": "1",
+        "non_zero": "58.1%",
+        "p_of_all_visits": "5.4%",
+        "std": "0.84"
+      },
+      "(1, 1)": {
+        "mean": "0.59",
+        "median": "0",
+        "non_zero": "45.5%",
+        "p_of_all_visits": "3.9%",
+        "std": "0.74"
+      },
+      "(1, 2)": {
+        "mean": "0.58",
+        "median": "0",
+        "non_zero": "45.1%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.73"
+      },
+      "(1, 3)": {
+        "mean": "1.52",
+        "median": "1",
+        "non_zero": "84.6%",
+        "p_of_all_visits": "10.1%",
+        "std": "1.04"
+      },
+      "(2, 0)": {
+        "mean": "0.48",
+        "median": "0",
+        "non_zero": "31.4%",
+        "p_of_all_visits": "3.2%",
+        "std": "0.86"
+      },
+      "(2, 1)": {
+        "mean": "0.57",
+        "median": "0",
+        "non_zero": "45.2%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.73"
+      },
+      "(2, 2)": {
+        "mean": "0.53",
+        "median": "0",
+        "non_zero": "42.8%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.69"
+      },
+      "(2, 3)": {
+        "mean": "0.73",
+        "median": "1",
+        "non_zero": "53.5%",
+        "p_of_all_visits": "4.9%",
+        "std": "0.82"
+      },
+      "(2, 4)": {
+        "mean": "2.68",
+        "median": "2",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "17.9%",
+        "std": "1.65"
+      },
+      "(3, 0)": {
+        "mean": "0.71",
+        "median": "1",
+        "non_zero": "52.4%",
+        "p_of_all_visits": "4.7%",
+        "std": "0.80"
+      },
+      "(3, 1)": {
+        "mean": "0.56",
+        "median": "0",
+        "non_zero": "43.7%",
+        "p_of_all_visits": "3.7%",
+        "std": "0.72"
+      },
+      "(3, 2)": {
+        "mean": "0.57",
+        "median": "0",
+        "non_zero": "44.6%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.73"
+      },
+      "(3, 3)": {
+        "mean": "1.23",
+        "median": "1",
+        "non_zero": "73.6%",
+        "p_of_all_visits": "8.2%",
+        "std": "1.03"
+      },
+      "(4, 0)": {
+        "mean": "0.46",
+        "median": "0",
+        "non_zero": "36.9%",
+        "p_of_all_visits": "3.0%",
+        "std": "0.67"
+      },
+      "(4, 1)": {
+        "mean": "0.75",
+        "median": "1",
+        "non_zero": "54.3%",
+        "p_of_all_visits": "5.0%",
+        "std": "0.83"
+      },
+      "(4, 2)": {
+        "mean": "0.49",
+        "median": "0",
+        "non_zero": "38.9%",
+        "p_of_all_visits": "3.3%",
+        "std": "0.70"
+      }
+    },
+    "n_iter": 15,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "7.60",
+        "median": "8",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.0%",
+        "std": "2.32"
+      },
+      "bottom": {
+        "mean": "3.10",
+        "median": "3",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.5%",
+        "std": "1.88"
+      },
+      "center": {
+        "mean": "0.77",
+        "median": "1",
+        "non_zero": "56.3%",
+        "p_of_all_visits": "3.9%",
+        "std": "0.82"
+      },
+      "collar": {
+        "mean": "2.88",
+        "median": "3",
+        "non_zero": "93.6%",
+        "p_of_all_visits": "14.4%",
+        "std": "1.70"
+      },
+      "left_lobe": {
+        "mean": "2.49",
+        "median": "2",
+        "non_zero": "85.9%",
+        "p_of_all_visits": "12.5%",
+        "std": "1.85"
+      },
+      "right_lobe": {
+        "mean": "2.46",
+        "median": "2",
+        "non_zero": "86.8%",
+        "p_of_all_visits": "12.3%",
+        "std": "1.80"
+      },
+      "top": {
+        "mean": "0.69",
+        "median": "0",
+        "non_zero": "41.5%",
+        "p_of_all_visits": "3.5%",
+        "std": "1.04"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.74",
+        "median": "1",
+        "non_zero": "52.5%",
+        "p_of_all_visits": "3.7%",
+        "std": "0.86"
+      },
+      "(0, 1)": {
+        "mean": "0.91",
+        "median": "1",
+        "non_zero": "60.6%",
+        "p_of_all_visits": "4.5%",
+        "std": "0.93"
+      },
+      "(0, 2)": {
+        "mean": "0.78",
+        "median": "1",
+        "non_zero": "55.2%",
+        "p_of_all_visits": "3.9%",
+        "std": "0.86"
+      },
+      "(1, 0)": {
+        "mean": "1.09",
+        "median": "1",
+        "non_zero": "68.9%",
+        "p_of_all_visits": "5.5%",
+        "std": "0.98"
+      },
+      "(1, 1)": {
+        "mean": "0.84",
+        "median": "1",
+        "non_zero": "58.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.88"
+      },
+      "(1, 2)": {
+        "mean": "0.83",
+        "median": "1",
+        "non_zero": "58.1%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.88"
+      },
+      "(1, 3)": {
+        "mean": "1.90",
+        "median": "2",
+        "non_zero": "89.7%",
+        "p_of_all_visits": "9.5%",
+        "std": "1.19"
+      },
+      "(2, 0)": {
+        "mean": "0.69",
+        "median": "0",
+        "non_zero": "41.5%",
+        "p_of_all_visits": "3.5%",
+        "std": "1.04"
+      },
+      "(2, 1)": {
+        "mean": "0.82",
+        "median": "1",
+        "non_zero": "57.6%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.87"
+      },
+      "(2, 2)": {
+        "mean": "0.77",
+        "median": "1",
+        "non_zero": "56.3%",
+        "p_of_all_visits": "3.9%",
+        "std": "0.82"
+      },
+      "(2, 3)": {
+        "mean": "1.01",
+        "median": "1",
+        "non_zero": "65.3%",
+        "p_of_all_visits": "5.0%",
+        "std": "0.96"
+      },
+      "(2, 4)": {
+        "mean": "3.10",
+        "median": "3",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.5%",
+        "std": "1.88"
+      },
+      "(3, 0)": {
+        "mean": "0.97",
+        "median": "1",
+        "non_zero": "63.7%",
+        "p_of_all_visits": "4.8%",
+        "std": "0.94"
+      },
+      "(3, 1)": {
+        "mean": "0.80",
+        "median": "1",
+        "non_zero": "56.0%",
+        "p_of_all_visits": "4.0%",
+        "std": "0.86"
+      },
+      "(3, 2)": {
+        "mean": "0.82",
+        "median": "1",
+        "non_zero": "57.1%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.88"
+      },
+      "(3, 3)": {
+        "mean": "1.57",
+        "median": "1",
+        "non_zero": "81.2%",
+        "p_of_all_visits": "7.8%",
+        "std": "1.18"
+      },
+      "(4, 0)": {
+        "mean": "0.65",
+        "median": "0",
+        "non_zero": "47.9%",
+        "p_of_all_visits": "3.2%",
+        "std": "0.80"
+      },
+      "(4, 1)": {
+        "mean": "1.02",
+        "median": "1",
+        "non_zero": "65.2%",
+        "p_of_all_visits": "5.1%",
+        "std": "0.97"
+      },
+      "(4, 2)": {
+        "mean": "0.68",
+        "median": "0",
+        "non_zero": "49.6%",
+        "p_of_all_visits": "3.4%",
+        "std": "0.82"
+      }
+    },
+    "n_iter": 20,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "9.51",
+        "median": "9",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.1%",
+        "std": "2.63"
+      },
+      "bottom": {
+        "mean": "3.52",
+        "median": "3",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.1%",
+        "std": "2.08"
+      },
+      "center": {
+        "mean": "1.02",
+        "median": "1",
+        "non_zero": "66.7%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.95"
+      },
+      "collar": {
+        "mean": "3.67",
+        "median": "4",
+        "non_zero": "97.0%",
+        "p_of_all_visits": "14.7%",
+        "std": "1.92"
+      },
+      "left_lobe": {
+        "mean": "3.22",
+        "median": "3",
+        "non_zero": "91.8%",
+        "p_of_all_visits": "12.9%",
+        "std": "2.11"
+      },
+      "right_lobe": {
+        "mean": "3.16",
+        "median": "3",
+        "non_zero": "92.4%",
+        "p_of_all_visits": "12.6%",
+        "std": "2.05"
+      },
+      "top": {
+        "mean": "0.90",
+        "median": "1",
+        "non_zero": "50.0%",
+        "p_of_all_visits": "3.6%",
+        "std": "1.18"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "0.96",
+        "median": "1",
+        "non_zero": "61.6%",
+        "p_of_all_visits": "3.8%",
+        "std": "0.98"
+      },
+      "(0, 1)": {
+        "mean": "1.16",
+        "median": "1",
+        "non_zero": "69.6%",
+        "p_of_all_visits": "4.7%",
+        "std": "1.05"
+      },
+      "(0, 2)": {
+        "mean": "1.00",
+        "median": "1",
+        "non_zero": "64.1%",
+        "p_of_all_visits": "4.0%",
+        "std": "0.97"
+      },
+      "(1, 0)": {
+        "mean": "1.37",
+        "median": "1",
+        "non_zero": "77.0%",
+        "p_of_all_visits": "5.5%",
+        "std": "1.10"
+      },
+      "(1, 1)": {
+        "mean": "1.09",
+        "median": "1",
+        "non_zero": "67.6%",
+        "p_of_all_visits": "4.4%",
+        "std": "1.01"
+      },
+      "(1, 2)": {
+        "mean": "1.09",
+        "median": "1",
+        "non_zero": "68.1%",
+        "p_of_all_visits": "4.4%",
+        "std": "1.00"
+      },
+      "(1, 3)": {
+        "mean": "2.29",
+        "median": "2",
+        "non_zero": "93.2%",
+        "p_of_all_visits": "9.1%",
+        "std": "1.33"
+      },
+      "(2, 0)": {
+        "mean": "0.90",
+        "median": "1",
+        "non_zero": "50.0%",
+        "p_of_all_visits": "3.6%",
+        "std": "1.18"
+      },
+      "(2, 1)": {
+        "mean": "1.06",
+        "median": "1",
+        "non_zero": "67.3%",
+        "p_of_all_visits": "4.3%",
+        "std": "0.99"
+      },
+      "(2, 2)": {
+        "mean": "1.02",
+        "median": "1",
+        "non_zero": "66.7%",
+        "p_of_all_visits": "4.1%",
+        "std": "0.95"
+      },
+      "(2, 3)": {
+        "mean": "1.29",
+        "median": "1",
+        "non_zero": "74.3%",
+        "p_of_all_visits": "5.2%",
+        "std": "1.08"
+      },
+      "(2, 4)": {
+        "mean": "3.52",
+        "median": "3",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.1%",
+        "std": "2.08"
+      },
+      "(3, 0)": {
+        "mean": "1.23",
+        "median": "1",
+        "non_zero": "72.6%",
+        "p_of_all_visits": "4.9%",
+        "std": "1.06"
+      },
+      "(3, 1)": {
+        "mean": "1.04",
+        "median": "1",
+        "non_zero": "65.8%",
+        "p_of_all_visits": "4.2%",
+        "std": "0.99"
+      },
+      "(3, 2)": {
+        "mean": "1.07",
+        "median": "1",
+        "non_zero": "66.8%",
+        "p_of_all_visits": "4.3%",
+        "std": "1.00"
+      },
+      "(3, 3)": {
+        "mean": "1.90",
+        "median": "2",
+        "non_zero": "86.5%",
+        "p_of_all_visits": "7.6%",
+        "std": "1.31"
+      },
+      "(4, 0)": {
+        "mean": "0.84",
+        "median": "1",
+        "non_zero": "57.0%",
+        "p_of_all_visits": "3.4%",
+        "std": "0.91"
+      },
+      "(4, 1)": {
+        "mean": "1.28",
+        "median": "1",
+        "non_zero": "73.5%",
+        "p_of_all_visits": "5.1%",
+        "std": "1.09"
+      },
+      "(4, 2)": {
+        "mean": "0.88",
+        "median": "1",
+        "non_zero": "58.3%",
+        "p_of_all_visits": "3.5%",
+        "std": "0.93"
+      }
+    },
+    "n_iter": 25,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "12.57",
+        "median": "13",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.1%",
+        "std": "3.07"
+      },
+      "bottom": {
+        "mean": "4.19",
+        "median": "4",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "12.7%",
+        "std": "2.37"
+      },
+      "center": {
+        "mean": "1.42",
+        "median": "1",
+        "non_zero": "78.5%",
+        "p_of_all_visits": "4.3%",
+        "std": "1.11"
+      },
+      "collar": {
+        "mean": "4.93",
+        "median": "5",
+        "non_zero": "99.1%",
+        "p_of_all_visits": "14.9%",
+        "std": "2.23"
+      },
+      "left_lobe": {
+        "mean": "4.38",
+        "median": "4",
+        "non_zero": "96.6%",
+        "p_of_all_visits": "13.3%",
+        "std": "2.47"
+      },
+      "right_lobe": {
+        "mean": "4.28",
+        "median": "4",
+        "non_zero": "96.9%",
+        "p_of_all_visits": "13.0%",
+        "std": "2.40"
+      },
+      "top": {
+        "mean": "1.24",
+        "median": "1",
+        "non_zero": "61.5%",
+        "p_of_all_visits": "3.8%",
+        "std": "1.40"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "1.31",
+        "median": "1",
+        "non_zero": "72.8%",
+        "p_of_all_visits": "4.0%",
+        "std": "1.14"
+      },
+      "(0, 1)": {
+        "mean": "1.58",
+        "median": "1",
+        "non_zero": "80.1%",
+        "p_of_all_visits": "4.8%",
+        "std": "1.22"
+      },
+      "(0, 2)": {
+        "mean": "1.35",
+        "median": "1",
+        "non_zero": "75.0%",
+        "p_of_all_visits": "4.1%",
+        "std": "1.13"
+      },
+      "(1, 0)": {
+        "mean": "1.82",
+        "median": "2",
+        "non_zero": "85.6%",
+        "p_of_all_visits": "5.5%",
+        "std": "1.27"
+      },
+      "(1, 1)": {
+        "mean": "1.50",
+        "median": "1",
+        "non_zero": "78.6%",
+        "p_of_all_visits": "4.5%",
+        "std": "1.18"
+      },
+      "(1, 2)": {
+        "mean": "1.50",
+        "median": "1",
+        "non_zero": "79.3%",
+        "p_of_all_visits": "4.5%",
+        "std": "1.17"
+      },
+      "(1, 3)": {
+        "mean": "2.90",
+        "median": "3",
+        "non_zero": "96.5%",
+        "p_of_all_visits": "8.8%",
+        "std": "1.52"
+      },
+      "(2, 0)": {
+        "mean": "1.24",
+        "median": "1",
+        "non_zero": "61.5%",
+        "p_of_all_visits": "3.8%",
+        "std": "1.40"
+      },
+      "(2, 1)": {
+        "mean": "1.46",
+        "median": "1",
+        "non_zero": "78.5%",
+        "p_of_all_visits": "4.4%",
+        "std": "1.15"
+      },
+      "(2, 2)": {
+        "mean": "1.42",
+        "median": "1",
+        "non_zero": "78.5%",
+        "p_of_all_visits": "4.3%",
+        "std": "1.11"
+      },
+      "(2, 3)": {
+        "mean": "1.73",
+        "median": "2",
+        "non_zero": "84.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "1.25"
+      },
+      "(2, 4)": {
+        "mean": "4.19",
+        "median": "4",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "12.7%",
+        "std": "2.37"
+      },
+      "(3, 0)": {
+        "mean": "1.65",
+        "median": "2",
+        "non_zero": "82.3%",
+        "p_of_all_visits": "5.0%",
+        "std": "1.22"
+      },
+      "(3, 1)": {
+        "mean": "1.42",
+        "median": "1",
+        "non_zero": "76.9%",
+        "p_of_all_visits": "4.3%",
+        "std": "1.16"
+      },
+      "(3, 2)": {
+        "mean": "1.46",
+        "median": "1",
+        "non_zero": "77.9%",
+        "p_of_all_visits": "4.4%",
+        "std": "1.17"
+      },
+      "(3, 3)": {
+        "mean": "2.44",
+        "median": "2",
+        "non_zero": "92.2%",
+        "p_of_all_visits": "7.4%",
+        "std": "1.49"
+      },
+      "(4, 0)": {
+        "mean": "1.15",
+        "median": "1",
+        "non_zero": "68.4%",
+        "p_of_all_visits": "3.5%",
+        "std": "1.06"
+      },
+      "(4, 1)": {
+        "mean": "1.71",
+        "median": "2",
+        "non_zero": "82.9%",
+        "p_of_all_visits": "5.2%",
+        "std": "1.26"
+      },
+      "(4, 2)": {
+        "mean": "1.18",
+        "median": "1",
+        "non_zero": "69.3%",
+        "p_of_all_visits": "3.6%",
+        "std": "1.09"
+      }
+    },
+    "n_iter": 33,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "19.08",
+        "median": "19",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.2%",
+        "std": "3.84"
+      },
+      "bottom": {
+        "mean": "5.61",
+        "median": "5",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "11.2%",
+        "std": "2.89"
+      },
+      "center": {
+        "mean": "2.26",
+        "median": "2",
+        "non_zero": "91.6%",
+        "p_of_all_visits": "4.5%",
+        "std": "1.39"
+      },
+      "collar": {
+        "mean": "7.60",
+        "median": "7",
+        "non_zero": "99.9%",
+        "p_of_all_visits": "15.2%",
+        "std": "2.76"
+      },
+      "left_lobe": {
+        "mean": "6.83",
+        "median": "7",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "13.7%",
+        "std": "3.10"
+      },
+      "right_lobe": {
+        "mean": "6.65",
+        "median": "6",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "13.3%",
+        "std": "3.00"
+      },
+      "top": {
+        "mean": "1.96",
+        "median": "2",
+        "non_zero": "77.4%",
+        "p_of_all_visits": "3.9%",
+        "std": "1.77"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "2.04",
+        "median": "2",
+        "non_zero": "86.9%",
+        "p_of_all_visits": "4.1%",
+        "std": "1.42"
+      },
+      "(0, 1)": {
+        "mean": "2.45",
+        "median": "2",
+        "non_zero": "91.9%",
+        "p_of_all_visits": "4.9%",
+        "std": "1.52"
+      },
+      "(0, 2)": {
+        "mean": "2.09",
+        "median": "2",
+        "non_zero": "88.4%",
+        "p_of_all_visits": "4.2%",
+        "std": "1.40"
+      },
+      "(1, 0)": {
+        "mean": "2.77",
+        "median": "3",
+        "non_zero": "94.8%",
+        "p_of_all_visits": "5.5%",
+        "std": "1.57"
+      },
+      "(1, 1)": {
+        "mean": "2.35",
+        "median": "2",
+        "non_zero": "91.2%",
+        "p_of_all_visits": "4.7%",
+        "std": "1.48"
+      },
+      "(1, 2)": {
+        "mean": "2.37",
+        "median": "2",
+        "non_zero": "91.8%",
+        "p_of_all_visits": "4.7%",
+        "std": "1.47"
+      },
+      "(1, 3)": {
+        "mean": "4.20",
+        "median": "4",
+        "non_zero": "99.1%",
+        "p_of_all_visits": "8.4%",
+        "std": "1.86"
+      },
+      "(2, 0)": {
+        "mean": "1.96",
+        "median": "2",
+        "non_zero": "77.4%",
+        "p_of_all_visits": "3.9%",
+        "std": "1.77"
+      },
+      "(2, 1)": {
+        "mean": "2.29",
+        "median": "2",
+        "non_zero": "91.1%",
+        "p_of_all_visits": "4.6%",
+        "std": "1.44"
+      },
+      "(2, 2)": {
+        "mean": "2.26",
+        "median": "2",
+        "non_zero": "91.6%",
+        "p_of_all_visits": "4.5%",
+        "std": "1.39"
+      },
+      "(2, 3)": {
+        "mean": "2.69",
+        "median": "3",
+        "non_zero": "94.1%",
+        "p_of_all_visits": "5.4%",
+        "std": "1.56"
+      },
+      "(2, 4)": {
+        "mean": "5.61",
+        "median": "5",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "11.2%",
+        "std": "2.89"
+      },
+      "(3, 0)": {
+        "mean": "2.54",
+        "median": "2",
+        "non_zero": "93.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "1.52"
+      },
+      "(3, 1)": {
+        "mean": "2.24",
+        "median": "2",
+        "non_zero": "90.1%",
+        "p_of_all_visits": "4.5%",
+        "std": "1.45"
+      },
+      "(3, 2)": {
+        "mean": "2.31",
+        "median": "2",
+        "non_zero": "90.8%",
+        "p_of_all_visits": "4.6%",
+        "std": "1.47"
+      },
+      "(3, 3)": {
+        "mean": "3.59",
+        "median": "3",
+        "non_zero": "97.5%",
+        "p_of_all_visits": "7.2%",
+        "std": "1.83"
+      },
+      "(4, 0)": {
+        "mean": "1.80",
+        "median": "2",
+        "non_zero": "83.4%",
+        "p_of_all_visits": "3.6%",
+        "std": "1.33"
+      },
+      "(4, 1)": {
+        "mean": "2.61",
+        "median": "2",
+        "non_zero": "93.3%",
+        "p_of_all_visits": "5.2%",
+        "std": "1.56"
+      },
+      "(4, 2)": {
+        "mean": "1.84",
+        "median": "2",
+        "non_zero": "84.0%",
+        "p_of_all_visits": "3.7%",
+        "std": "1.35"
+      }
+    },
+    "n_iter": 50,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "38.19",
+        "median": "38",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.2%",
+        "std": "5.50"
+      },
+      "bottom": {
+        "mean": "9.79",
+        "median": "9",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "9.8%",
+        "std": "4.07"
+      },
+      "center": {
+        "mean": "4.74",
+        "median": "5",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "4.7%",
+        "std": "2.01"
+      },
+      "collar": {
+        "mean": "15.49",
+        "median": "15",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.5%",
+        "std": "3.95"
+      },
+      "left_lobe": {
+        "mean": "14.12",
+        "median": "14",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.1%",
+        "std": "4.49"
+      },
+      "right_lobe": {
+        "mean": "13.62",
+        "median": "13",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "13.6%",
+        "std": "4.31"
+      },
+      "top": {
+        "mean": "4.05",
+        "median": "4",
+        "non_zero": "95.3%",
+        "p_of_all_visits": "4.1%",
+        "std": "2.55"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "4.21",
+        "median": "4",
+        "non_zero": "98.5%",
+        "p_of_all_visits": "4.2%",
+        "std": "2.05"
+      },
+      "(0, 1)": {
+        "mean": "5.04",
+        "median": "5",
+        "non_zero": "99.4%",
+        "p_of_all_visits": "5.0%",
+        "std": "2.19"
+      },
+      "(0, 2)": {
+        "mean": "4.27",
+        "median": "4",
+        "non_zero": "98.8%",
+        "p_of_all_visits": "4.3%",
+        "std": "2.00"
+      },
+      "(1, 0)": {
+        "mean": "5.58",
+        "median": "5",
+        "non_zero": "99.7%",
+        "p_of_all_visits": "5.6%",
+        "std": "2.23"
+      },
+      "(1, 1)": {
+        "mean": "4.87",
+        "median": "5",
+        "non_zero": "99.3%",
+        "p_of_all_visits": "4.9%",
+        "std": "2.13"
+      },
+      "(1, 2)": {
+        "mean": "4.94",
+        "median": "5",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "4.9%",
+        "std": "2.12"
+      },
+      "(1, 3)": {
+        "mean": "8.03",
+        "median": "8",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.0%",
+        "std": "2.62"
+      },
+      "(2, 0)": {
+        "mean": "4.05",
+        "median": "4",
+        "non_zero": "95.3%",
+        "p_of_all_visits": "4.1%",
+        "std": "2.55"
+      },
+      "(2, 1)": {
+        "mean": "4.74",
+        "median": "5",
+        "non_zero": "99.3%",
+        "p_of_all_visits": "4.7%",
+        "std": "2.07"
+      },
+      "(2, 2)": {
+        "mean": "4.74",
+        "median": "5",
+        "non_zero": "99.5%",
+        "p_of_all_visits": "4.7%",
+        "std": "2.01"
+      },
+      "(2, 3)": {
+        "mean": "5.46",
+        "median": "5",
+        "non_zero": "99.7%",
+        "p_of_all_visits": "5.5%",
+        "std": "2.22"
+      },
+      "(2, 4)": {
+        "mean": "9.79",
+        "median": "9",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "9.8%",
+        "std": "4.07"
+      },
+      "(3, 0)": {
+        "mean": "5.16",
+        "median": "5",
+        "non_zero": "99.6%",
+        "p_of_all_visits": "5.2%",
+        "std": "2.15"
+      },
+      "(3, 1)": {
+        "mean": "4.64",
+        "median": "4",
+        "non_zero": "99.2%",
+        "p_of_all_visits": "4.6%",
+        "std": "2.09"
+      },
+      "(3, 2)": {
+        "mean": "4.78",
+        "median": "5",
+        "non_zero": "99.3%",
+        "p_of_all_visits": "4.8%",
+        "std": "2.12"
+      },
+      "(3, 3)": {
+        "mean": "6.95",
+        "median": "7",
+        "non_zero": "99.9%",
+        "p_of_all_visits": "7.0%",
+        "std": "2.57"
+      },
+      "(4, 0)": {
+        "mean": "3.72",
+        "median": "4",
+        "non_zero": "97.5%",
+        "p_of_all_visits": "3.7%",
+        "std": "1.93"
+      },
+      "(4, 1)": {
+        "mean": "5.26",
+        "median": "5",
+        "non_zero": "99.6%",
+        "p_of_all_visits": "5.3%",
+        "std": "2.21"
+      },
+      "(4, 2)": {
+        "mean": "3.76",
+        "median": "4",
+        "non_zero": "97.7%",
+        "p_of_all_visits": "3.8%",
+        "std": "1.94"
+      }
+    },
+    "n_iter": 100,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "382.49",
+        "median": "383",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.2%",
+        "std": "17.71"
+      },
+      "bottom": {
+        "mean": "85.06",
+        "median": "85",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.5%",
+        "std": "12.74"
+      },
+      "center": {
+        "mean": "49.22",
+        "median": "49",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "6.53"
+      },
+      "collar": {
+        "mean": "157.33",
+        "median": "157",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.7%",
+        "std": "12.52"
+      },
+      "left_lobe": {
+        "mean": "144.89",
+        "median": "145",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.5%",
+        "std": "14.50"
+      },
+      "right_lobe": {
+        "mean": "139.08",
+        "median": "139",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "13.9%",
+        "std": "13.78"
+      },
+      "top": {
+        "mean": "41.93",
+        "median": "42",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "8.20"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "43.22",
+        "median": "43",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "6.65"
+      },
+      "(0, 1)": {
+        "mean": "51.43",
+        "median": "51",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "6.93"
+      },
+      "(0, 2)": {
+        "mean": "43.48",
+        "median": "43",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "6.35"
+      },
+      "(1, 0)": {
+        "mean": "56.13",
+        "median": "56",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "7.11"
+      },
+      "(1, 1)": {
+        "mean": "50.24",
+        "median": "50",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "6.89"
+      },
+      "(1, 2)": {
+        "mean": "51.13",
+        "median": "51",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "6.78"
+      },
+      "(1, 3)": {
+        "mean": "76.92",
+        "median": "77",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.7%",
+        "std": "8.26"
+      },
+      "(2, 0)": {
+        "mean": "41.93",
+        "median": "42",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "8.20"
+      },
+      "(2, 1)": {
+        "mean": "48.92",
+        "median": "49",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "6.57"
+      },
+      "(2, 2)": {
+        "mean": "49.22",
+        "median": "49",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "6.53"
+      },
+      "(2, 3)": {
+        "mean": "55.51",
+        "median": "55",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "7.00"
+      },
+      "(2, 4)": {
+        "mean": "85.06",
+        "median": "85",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.5%",
+        "std": "12.74"
+      },
+      "(3, 0)": {
+        "mean": "52.27",
+        "median": "52",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "6.89"
+      },
+      "(3, 1)": {
+        "mean": "47.77",
+        "median": "48",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.8%",
+        "std": "6.66"
+      },
+      "(3, 2)": {
+        "mean": "49.30",
+        "median": "49",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "6.76"
+      },
+      "(3, 3)": {
+        "mean": "67.70",
+        "median": "68",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.8%",
+        "std": "8.09"
+      },
+      "(4, 0)": {
+        "mean": "38.25",
+        "median": "38",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "6.18"
+      },
+      "(4, 1)": {
+        "mean": "53.07",
+        "median": "53",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "7.01"
+      },
+      "(4, 2)": {
+        "mean": "38.44",
+        "median": "38",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "6.18"
+      }
+    },
+    "n_iter": 1000,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "3818.81",
+        "median": "3819",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.2%",
+        "std": "55.17"
+      },
+      "bottom": {
+        "mean": "834.28",
+        "median": "833",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.3%",
+        "std": "41.76"
+      },
+      "center": {
+        "mean": "495.71",
+        "median": "495",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "20.85"
+      },
+      "collar": {
+        "mean": "1577.86",
+        "median": "1577",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.8%",
+        "std": "39.49"
+      },
+      "left_lobe": {
+        "mean": "1455.57",
+        "median": "1455",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.6%",
+        "std": "44.27"
+      },
+      "right_lobe": {
+        "mean": "1396.63",
+        "median": "1397",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.0%",
+        "std": "44.13"
+      },
+      "top": {
+        "mean": "421.14",
+        "median": "422",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "25.24"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "433.23",
+        "median": "434",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "19.81"
+      },
+      "(0, 1)": {
+        "mean": "516.70",
+        "median": "516",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "21.32"
+      },
+      "(0, 2)": {
+        "mean": "436.62",
+        "median": "436",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.4%",
+        "std": "20.00"
+      },
+      "(1, 0)": {
+        "mean": "560.23",
+        "median": "560",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "22.11"
+      },
+      "(1, 1)": {
+        "mean": "505.64",
+        "median": "506",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "22.03"
+      },
+      "(1, 2)": {
+        "mean": "512.14",
+        "median": "512",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "20.34"
+      },
+      "(1, 3)": {
+        "mean": "764.93",
+        "median": "765",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.6%",
+        "std": "26.13"
+      },
+      "(2, 0)": {
+        "mean": "421.14",
+        "median": "422",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "25.24"
+      },
+      "(2, 1)": {
+        "mean": "492.03",
+        "median": "491",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "21.28"
+      },
+      "(2, 2)": {
+        "mean": "495.71",
+        "median": "495",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.0%",
+        "std": "20.85"
+      },
+      "(2, 3)": {
+        "mean": "553.63",
+        "median": "554",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.5%",
+        "std": "21.93"
+      },
+      "(2, 4)": {
+        "mean": "834.28",
+        "median": "833",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.3%",
+        "std": "41.76"
+      },
+      "(3, 0)": {
+        "mean": "525.60",
+        "median": "526",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "21.98"
+      },
+      "(3, 1)": {
+        "mean": "480.61",
+        "median": "480",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.8%",
+        "std": "21.12"
+      },
+      "(3, 2)": {
+        "mean": "493.72",
+        "median": "493",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "21.16"
+      },
+      "(3, 3)": {
+        "mean": "673.02",
+        "median": "673",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.7%",
+        "std": "25.58"
+      },
+      "(4, 0)": {
+        "mean": "384.59",
+        "median": "384",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "19.67"
+      },
+      "(4, 1)": {
+        "mean": "531.42",
+        "median": "531",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "21.97"
+      },
+      "(4, 2)": {
+        "mean": "384.75",
+        "median": "385",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "19.69"
+      }
+    },
+    "n_iter": 10000,
+    "start_hex": "(2, 4)"
+  },
+  {
+    "collections": {
+      "belt": {
+        "mean": "38226.46",
+        "median": "38223",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "38.2%",
+        "std": "175.64"
+      },
+      "bottom": {
+        "mean": "8359.98",
+        "median": "8376",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.4%",
+        "std": "135.71"
+      },
+      "center": {
+        "mean": "4940.34",
+        "median": "4933",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "62.17"
+      },
+      "collar": {
+        "mean": "15765.03",
+        "median": "15756",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "15.8%",
+        "std": "129.46"
+      },
+      "left_lobe": {
+        "mean": "14544.83",
+        "median": "14550",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.5%",
+        "std": "153.47"
+      },
+      "right_lobe": {
+        "mean": "13951.97",
+        "median": "13962",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "14.0%",
+        "std": "148.84"
+      },
+      "top": {
+        "mean": "4211.39",
+        "median": "4214",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "78.16"
+      }
+    },
+    "hexes": {
+      "(0, 0)": {
+        "mean": "4325.18",
+        "median": "4323",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.3%",
+        "std": "64.97"
+      },
+      "(0, 1)": {
+        "mean": "5169.22",
+        "median": "5170",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "75.09"
+      },
+      "(0, 2)": {
+        "mean": "4357.52",
+        "median": "4360",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.4%",
+        "std": "68.20"
+      },
+      "(1, 0)": {
+        "mean": "5608.84",
+        "median": "5611",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "67.02"
+      },
+      "(1, 1)": {
+        "mean": "5050.43",
+        "median": "5060",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "76.18"
+      },
+      "(1, 2)": {
+        "mean": "5125.98",
+        "median": "5119",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.1%",
+        "std": "71.98"
+      },
+      "(1, 3)": {
+        "mean": "7655.38",
+        "median": "7655",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "7.7%",
+        "std": "76.96"
+      },
+      "(2, 0)": {
+        "mean": "4211.39",
+        "median": "4214",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.2%",
+        "std": "78.16"
+      },
+      "(2, 1)": {
+        "mean": "4910.42",
+        "median": "4910",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "65.75"
+      },
+      "(2, 2)": {
+        "mean": "4940.34",
+        "median": "4933",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "62.17"
+      },
+      "(2, 3)": {
+        "mean": "5554.50",
+        "median": "5561",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.6%",
+        "std": "73.80"
+      },
+      "(2, 4)": {
+        "mean": "8359.98",
+        "median": "8376",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "8.4%",
+        "std": "135.71"
+      },
+      "(3, 0)": {
+        "mean": "5245.77",
+        "median": "5246",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.2%",
+        "std": "69.09"
+      },
+      "(3, 1)": {
+        "mean": "4802.92",
+        "median": "4796",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.8%",
+        "std": "76.47"
+      },
+      "(3, 2)": {
+        "mean": "4945.30",
+        "median": "4936",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "4.9%",
+        "std": "65.21"
+      },
+      "(3, 3)": {
+        "mean": "6734.86",
+        "median": "6728",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "6.7%",
+        "std": "85.48"
+      },
+      "(4, 0)": {
+        "mean": "3827.48",
+        "median": "3835",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.8%",
+        "std": "60.01"
+      },
+      "(4, 1)": {
+        "mean": "5321.57",
+        "median": "5324",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "5.3%",
+        "std": "70.86"
+      },
+      "(4, 2)": {
+        "mean": "3852.92",
+        "median": "3850",
+        "non_zero": "100.0%",
+        "p_of_all_visits": "3.9%",
+        "std": "61.05"
+      }
+    },
+    "n_iter": 100000,
+    "start_hex": "(2, 4)"
+  }
+]
